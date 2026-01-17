@@ -18,3 +18,4 @@ second_value_int = int(second_value)
 print("Summan är: " + str(first_value_int + second_value_int))
 
 print("Hej då " + username)
+print("Apa")
