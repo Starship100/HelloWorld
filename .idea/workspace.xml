@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="11b4953b-6b69-47e5-9daa-cf2cbae446f2" name="Changes" comment="Intro">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,18 +13,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Starship100"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Starship100&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Starship100/HelloWorld.git",
-    "accountId": "0b8a485f-5350-4269-ae17-b11715fe0b3c"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Starship100/HelloWorld.git&quot;,
+    &quot;accountId&quot;: &quot;0b8a485f-5350-4269-ae17-b11715fe0b3c&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -67,6 +68,11 @@
       <updated>1768586544966</updated>
       <workItem from="1768586546037" duration="9870000" />
       <workItem from="1768688052392" duration="6336000" />
+      <workItem from="1768751236597" duration="3099000" />
+      <workItem from="1768816093810" duration="838000" />
+      <workItem from="1768986028290" duration="709000" />
+      <workItem from="1769681703879" duration="4751000" />
+      <workItem from="1769761677997" duration="5042000" />
     </task>
     <task id="LOCAL-00001" summary="Intro">
       <option name="closed" value="true" />
@@ -76,7 +82,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768691832961</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Intro">
+      <option name="closed" value="true" />
+      <created>1768812162479</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1768812162479</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +112,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Intro" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/HelloWorld$main.coverage" NAME="main Coverage Results" MODIFIED="1768688844769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HelloWorld$main.coverage" NAME="main Coverage Results" MODIFIED="1769783141975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PythonProject/PythonProject/PythonProject/03_input" />
   </component>
 </project>
