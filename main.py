@@ -18,4 +18,3 @@ second_value = int(input("Skriv in ett till tal: "))
 print("Summan är: " + str(first_value + second_value))
 
 print("Hej då " + username)
-# kjdf
